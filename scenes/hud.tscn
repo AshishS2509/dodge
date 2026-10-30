@@ -42,7 +42,6 @@ text = "Dodge the
 Creeps!"
 horizontal_alignment = 1
 vertical_alignment = 1
-autowrap_mode = 2
 
 [node name="Button" type="Button" parent="." unique_id=222568569]
 anchors_preset = 7
